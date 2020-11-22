@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Material Motion Shared Axis</string>
+    <string name="upload_your_photos">Upload your photos</string>
+    <string name="share">Share</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="upload_artistic_photos">Upload your artistic photos to the app</string>
+    <string name="share_work_social_networks">Share your work on social networks</string>
+    <string name="enjoy_rewards">You and your friends will enjoy fantastic rewards!</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
